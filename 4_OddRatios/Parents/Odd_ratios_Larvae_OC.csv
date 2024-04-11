@@ -1,0 +1,6 @@
+Category,Previous,Current,Species,Stage,Previous.Current,Previous.Species,Current.Species,Previous.Stage,Current.Stage,Species.Stage,Previous.Current.Species,Previous.Current.Stage,Previous.Species.Stage,Current.Species.Stage,Previous.Current.Species.Stage
+Conserved,0,0,-29.8973528539863,0,0,0,0,0,0,-1.36452490331158,0,0,0,0,0
+Only_Cis,0,0,1.26346500275702,0,0,0,0,0,0,0.760881856619331,0,0,0,0,0
+Only_Trans,0,0,1.3267238495546,0,0,0,0,0,0,1.63813392128743,0,0,0,0,0
+Enhancing,0,0,1.22240949349284,0,0,0,0,0,0,0,0,0,0,0,0
+Compensating,0,0,-0.354928254099863,-0.363456634172079,0,0,0,0,0,-0.344687838133402,0,0,0,0,0
