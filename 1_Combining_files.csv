@@ -1,0 +1,9 @@
+Path,Prefix
+Adults/sec,Adult_Sec_
+Adults/sim,Adult_Sim_
+Larvae/sec,Larvae_Sec_
+Larvae/sim,Larvae_Sim_
+Adults/hyb/sec,Adult_Hybrid_Sec_
+Adults/hyb/sim,Adult_Hybrid_Sim_
+Larvae/hyb/sec,Larvae_Hybrid_Sec_
+Larvae/hyb/sim,Larvae_Hybrid_Sim_
