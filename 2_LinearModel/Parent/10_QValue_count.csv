@@ -1,0 +1,17 @@
+Condition,Count
+Intercept,6513
+Previous,36
+Current,50
+Species,2791
+Stage,3485
+Previous:Current,35
+Previous:Species,43
+Current:Species,48
+Previous:Stage,26
+Current:Stage,24
+Species:Stage,1046
+Previous:Current:Species,48
+Previous:Current:Stage,14
+Previous:Species:Stage,18
+Current:Species:Stage,26
+Previous:Current:Species:Stage,38
